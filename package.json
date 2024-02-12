@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test brand site": "node index.js",
-    "test ecommerce site": "node ecomm_index.js"
+    "brand-site": "node index.js",
+    "ecom-site": "node ecomm_index.js"
   },
   "type": "module",
   "author": "",
